@@ -1,0 +1,16 @@
+G:\wpf\Solutions\CommandDemo\CommandDemo\bin\Debug\CommandDemo.exe.config
+G:\wpf\Solutions\CommandDemo\CommandDemo\bin\Debug\CommandDemo.exe
+G:\wpf\Solutions\CommandDemo\CommandDemo\bin\Debug\CommandDemo.pdb
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo.csproj.AssemblyReference.cache
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\MainWindow.g.cs
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\App.g.cs
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo_MarkupCompile.cache
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo_MarkupCompile.lref
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\MainWindow.baml
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo.g.resources
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo.Properties.Resources.resources
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo.csproj.GenerateResource.cache
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo.csproj.CoreCompileInputs.cache
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo.exe
+G:\wpf\Solutions\CommandDemo\CommandDemo\obj\Debug\CommandDemo.pdb
